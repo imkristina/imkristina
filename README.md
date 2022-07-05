@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imkristina!
+- 👋 Howdy, I’m @imkristina!
 - 👀 I’m interested in a career change from government admin to tech.
-- 🌱 I’m currently learning R and Python languages.
+- 🌱 I’m currently refreshing my R and Python skills.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me : imkristinavannest@gmail.com
 
